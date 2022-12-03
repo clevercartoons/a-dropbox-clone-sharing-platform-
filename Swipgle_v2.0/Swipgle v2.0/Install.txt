@@ -1,0 +1,10 @@
+Please read the documentation carefully.
+
+Important! : Make sure your server PHP Version is 7.3 before you start installing
+1. Create and Import database: database.sql
+2. Upload and Unzip Script.zip to your hosting, server.
+3. Edit file ../Application/.env
+
+Change info your domain, database.
+
+Login Admin: Email : admin@vironeer.com | Password : Admin1234 
